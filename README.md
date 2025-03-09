@@ -1,6 +1,6 @@
 # 📌 Zomato Data Analysis
 
-![Zomato Data Analysis]
+
 
 ## 📖 Overview
 This project is a **detailed analysis of Zomato restaurant data**, focusing on customer preferences, ratings, votes, online ordering trends, and cost factors. Using **Python, Pandas, Matplotlib, and Seaborn**, we extract insights to understand restaurant trends, popularity, and user behavior.
